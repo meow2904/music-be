@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\music-be\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\CodePractice\\music-system\\music-be\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{356C3BEF-31F9-4ABA-9443-A2930EAF1A06}|Domain\\Domain.csproj|d:\\codepractice\\music-system\\music-be\\domain\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C3BEF-31F9-4ABA-9443-A2930EAF1A06}|Domain\\Domain.csproj|solutionrelative:domain\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\CodePractice\\music-system\\music-be\\Domain\\Result.cs",
+              "RelativeDocumentMoniker": "Domain\\Result.cs",
+              "ToolTip": "D:\\CodePractice\\music-system\\music-be\\Domain\\Result.cs",
+              "RelativeToolTip": "Domain\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T03:53:31.603Z",
+              "EditorCaption": ""
             }
           ]
         }
